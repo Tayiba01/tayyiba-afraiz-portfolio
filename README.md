@@ -76,7 +76,7 @@ My goal is to grow as a software engineer by working on real-world projects, lea
 
 ##  Connect With Me
 
-- **Portfolio:** [tayyiba01.github.io/tayyiba-afraiz-portfolio](https://tayyiba01.github.io/tayyiba-afraiz-portfolio/)
+- **Portfolio:** [https://tayiba01.github.io/tayyiba-afraiz-portfolio/)
 - **GitHub:** [github.com/Tayiba01](https://github.com/Tayiba01)
 
 ---
